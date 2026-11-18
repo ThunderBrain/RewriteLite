@@ -1,6 +1,6 @@
 # RewriteLite · 言字旁
 
-Rewrite selected text in a floating editor, turn an instruction into a draft, and refine it without losing the current context. Use a global shortcut, bring your own API key or OpenRouter account key, or choose a local Ollama model. The installer is under 3 MB. The app is free for personal, educational and internal business use. Available in English and Simplified Chinese.
+Rewrite selected text in a floating editor, turn an instruction into a draft, and refine it without losing the current context. Use a global shortcut, bring your own API key, connect your OpenRouter account, or choose a local Ollama model. The installer is under 3 MB. The app is free for personal, educational and internal business use. Available in English and Simplified Chinese.
 
 **[Product website](https://thunderbrain.github.io/RewriteLite/) · [中文主页](https://thunderbrain.github.io/RewriteLite/zh/) · [Installation and updates](https://thunderbrain.github.io/RewriteLite/guide/)**
 
@@ -13,7 +13,7 @@ The current installer supports 64-bit Windows 10 and 11 with .NET Framework 4.8 
 
 ## Connect OpenRouter
 
-In **Settings → AI connection → OpenRouter**, open **Get an OpenRouter key** or paste a key you already have. Click **Connect** to load text models, choose one, test it and save. You can choose **API Key** for other providers or a local Ollama model. [OpenRouter key management](https://openrouter.ai/settings/keys)
+In Settings → AI connection, choose OpenRouter account and click Connect with OpenRouter. Sign in and approve in your browser. Back in RewriteLite, choose a text model, test it and save. If you already have a key, choose API Key, select OpenRouter in the provider dropdown and paste your key. [Manage OpenRouter keys](https://openrouter.ai/settings/keys)
 
 ## AI and privacy
 

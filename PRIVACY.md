@@ -14,6 +14,10 @@ The application keeps writing context in memory. It does not save a writing hist
 
 Selection detection uses Windows accessibility interfaces. Clicking Copy writes the result to the Windows clipboard. Windows clipboard history or sync, if enabled, is managed by Windows. Direct replacement is available in supported text controls. Technical errors can create a local diagnostic log under the current Windows user's LocalAppData/RewriteLite/logs folder. It records error identifiers and method names and omits text, credentials and request URLs. The app has no telemetry or advertising SDK.
 
+## OpenRouter account authorization
+
+Choosing Connect with OpenRouter opens its authorization page in your browser. OpenRouter handles sign-in. A one-time code returns directly to a temporary listener on your computer. RewriteLite exchanges it using PKCE and encrypts the issued API key for your Windows account. Requests use your OpenRouter account credits. Disconnect removes the key from the current settings; an encrypted backup may still contain it. Revoke the key in your OpenRouter account to disable it at the provider.
+
 ## Updates, website and removal
 
 Checking for updates contacts GitHub. Downloading an update contacts GitHub's release hosting. If a supported .NET Framework runtime is missing, the launcher requests permission before downloading the Microsoft installer. These requests share the usual network information with GitHub or Microsoft.
