@@ -17,7 +17,7 @@ In Settings → AI connection, choose OpenRouter account and click Connect with 
 
 ## AI and privacy
 
-Cloud writing requests go directly to the provider you choose. API usage may incur provider charges. For on-device processing, start a local Ollama model and use a loopback connection. The personal edition supports ChatGPT sign-in. We plan to apply for ChatGPT integration for the public edition. The installer linked above supports API keys, OpenRouter accounts and local Ollama. [Privacy notice](PRIVACY.md)
+Cloud writing requests go directly to the provider you choose. To write on your own computer, connect a local Ollama model. [Privacy notice](PRIVACY.md)
 
 ## License and feedback
 
