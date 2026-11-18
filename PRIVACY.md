@@ -18,6 +18,10 @@ Selection detection uses Windows accessibility interfaces. Clicking Copy writes 
 
 Checking for updates contacts GitHub. Downloading an update contacts GitHub's release hosting. If a supported .NET Framework runtime is missing, the launcher requests permission before downloading the Microsoft installer. These requests share the usual network information with GitHub or Microsoft.
 
-GitHub Pages serves the product website and GitHub hosts downloads and feedback. These services receive ordinary connection information under GitHub's privacy statement (https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). The product website does not add analytics, advertising scripts or tracking cookies. Feedback posted in public GitHub issues is visible to others. Keep credentials, private writing and diagnostic files out of public issues.
+GitHub Pages serves the product website and GitHub hosts downloads and feedback. These services receive ordinary connection information under GitHub's privacy statement (https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). The website does not set tracking cookies or load advertising scripts. Its current visitor statistics practices are described in the online notice at https://thunderbrain.github.io/RewriteLite/privacy/. Feedback posted in public GitHub issues is visible to others. Keep credentials, private writing and diagnostic files out of public issues.
 
 To remove local settings and backups, exit the application and delete its data folder after preserving any files you wish to keep. You can also remove local diagnostic logs and revoke a key with its provider. For product questions visit https://github.com/ThunderBrain/RewriteLite.
+
+## Website statistics
+
+Website visits and installer-link clicks are currently not collected. GitHub separately records and publishes cumulative release asset download counts.
