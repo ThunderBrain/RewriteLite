@@ -1,4 +1,4 @@
-# RewriteLite for Windows · 言字旁
+# RewriteLite · 言字旁
 
 Rewrite selected text in a floating editor, turn an instruction into a draft, and refine it without losing the current context. Use a global shortcut, bring your own API key or OpenRouter account key, or choose a local Ollama model. The installer is under 3 MB. The app is free for personal, educational and internal business use. Available in English and Simplified Chinese.
 
@@ -9,7 +9,11 @@ Rewrite selected text in a floating editor, turn an instruction into a draft, an
 - [Windows installer](https://github.com/ThunderBrain/RewriteLite/releases/latest/download/RewriteLite-Setup.exe) — installs for the current user and adds a Start menu entry.
 - [Release notes and checksums](https://github.com/ThunderBrain/RewriteLite/releases) — use the checksum for the exact release you downloaded.
 
-Windows 10 or 11 with .NET Framework 4.8 or 4.8.1. In the app, use **Settings → Software updates → Check for updates**. Save any draft and exit from the tray before upgrading.
+The current installer supports 64-bit Windows 10 and 11 with .NET Framework 4.8 or 4.8.1. A macOS edition is planned. In the app, use **Settings → Software updates → Check for updates**. Save any draft and exit from the tray before upgrading.
+
+## Connect OpenRouter
+
+In **Settings → AI connection → OpenRouter**, open **Get an OpenRouter key** or paste a key you already have. Click **Connect** to load text models, choose one, test it and save. You can choose **API Key** for other providers or a local Ollama model. [OpenRouter key management](https://openrouter.ai/settings/keys)
 
 ## AI and privacy
 
