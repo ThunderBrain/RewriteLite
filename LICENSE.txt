@@ -1,0 +1,14 @@
+RewriteLite Software License
+Version 1.0 | 2026-11-18
+
+Copyright 2026 the author of RewriteLite (GitHub: ThunderBrain). All rights reserved.
+
+1. Permission. You may download, install, and use the official, unmodified Windows application at no charge for personal, educational, or internal business use. You may install it on devices you use or administer and make reasonable backup copies. You may use the resulting text in your work, including commercial work. The author claims no rights in your input or output under this license. Your AI provider's terms and any rights of other parties still apply.
+
+2. Distribution and branding. You may share links to the official website and releases. To redistribute the files to others outside your organization, publish a modified build, repackage the application, sell or sublicense it, or use its name or logo to imply endorsement, obtain prior written permission from the author. Keep copyright and license notices with copies. No rights to the private source code or trademarks are granted. Nothing here limits rights that applicable law makes non-waivable.
+
+3. Third-party components and services. Third-party components remain subject to their own notices and licenses supplied with the application. You choose and pay for any external AI service under its own terms. Optional donations do not change the permissions in this license.
+
+4. Warranty and liability. To the extent permitted by law, the application is provided as is, without warranties. To the extent permitted by law, the author is not liable for indirect or consequential damages arising from its use. Mandatory consumer protections remain in effect.
+
+5. Contact. For permission requests, contact the maintainer through the official project at https://github.com/ThunderBrain/RewriteLite. This version of the license applies to copies distributed with it.
