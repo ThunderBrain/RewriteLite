@@ -24,4 +24,4 @@ To remove local settings and backups, exit the application and delete its data f
 
 ## Website statistics
 
-Website visits and installer-link clicks are currently not collected. GitHub separately records and publishes cumulative release asset download counts.
+The product website uses GoatCounter to count page visits and installer-link clicks. The site sends a fixed page path or event name, without URL queries or writing content. GoatCounter processes standard network information and publishes its data practices at https://www.goatcounter.com/help/privacy. The owner dashboard is private. Browser privacy signals and content blockers can suppress counts. GitHub separately publishes cumulative release asset download counts.
