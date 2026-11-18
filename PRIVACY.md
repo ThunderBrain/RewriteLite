@@ -16,7 +16,7 @@ Selection detection uses Windows accessibility interfaces. Clicking Copy writes 
 
 ## OpenRouter account authorization
 
-Choosing Connect with OpenRouter opens its authorization page in your browser. OpenRouter handles sign-in. A one-time code returns directly to a temporary listener on your computer. RewriteLite exchanges it using PKCE and encrypts the issued API key for your Windows account. Requests use your OpenRouter account credits. Disconnect removes the key from the current settings; an encrypted backup may still contain it. Revoke the key in your OpenRouter account to disable it at the provider.
+Choosing Connect with OpenRouter opens its authorization page in your browser. OpenRouter handles sign-in. A one-time code returns directly to a temporary listener on your computer. RewriteLite exchanges it using PKCE and encrypts the issued API key for your Windows account. Requests to the official OpenRouter service include the product name and website for app identification. Requests use your OpenRouter account credits. Disconnect removes the key from the current settings; an encrypted backup may still contain it. Revoke the key in your OpenRouter account to disable it at the provider.
 
 ## Updates, website and removal
 

@@ -13,7 +13,7 @@ The current installer supports 64-bit Windows 10 and 11 with .NET Framework 4.8 
 
 ## Connect OpenRouter
 
-In Settings → AI connection, choose OpenRouter account and click Connect with OpenRouter. Sign in and approve in your browser. Back in RewriteLite, choose a text model, test it and save. If you already have a key, choose API Key, select OpenRouter in the provider dropdown and paste your key. [Manage OpenRouter keys](https://openrouter.ai/settings/keys)
+In Settings → AI connection, choose OpenRouter account and click Connect with OpenRouter. The desktop app displays the localhost address for this attempt. Check it and the key label **RewriteLite · 言字旁** on OpenRouter before approving. Back in RewriteLite, choose a text model, test it and save. If you already have a key, choose API Key, select OpenRouter in the provider dropdown and paste your key. [Manage OpenRouter keys](https://openrouter.ai/settings/keys)
 
 ## AI and privacy
 
