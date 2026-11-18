@@ -2,6 +2,10 @@
 
 Public Windows edition · Effective November 18, 2026
 
+## Private feedback
+
+From version 0.17.6, the feedback message starts with the app version, Windows build (when available) and interface language. You can edit or delete any of these lines. Send feedback delivers the text left in the box to the developer’s private Formspree inbox. If you choose to attach diagnostics, the preview shows the exact attachment. It includes up to ten recent events with their UTC time, operation and result. Successful events cover app startup, model list requests, connection tests and writing requests and stay in memory for the session. Errors can include a technical code or HTTP status. The attachment contains no writing content or credentials. Formspree processes the submission and ordinary network information and forwards a notification to the developer’s registered email. [Formspree privacy policy](https://formspree.io/legal/privacy-policy/)
+
 ## What leaves your device
 
 Selecting text or opening a blank Compose window does not send text. Clicking the rewrite icon or using a configured shortcut on a selection starts a request. Generating from the main window or Compose sends the text or instruction, selected writing style, and applicable language settings directly to your chosen AI provider. Refine also sends the current draft and recent context for that task to its original provider and model. New writing tasks start with separate context.
