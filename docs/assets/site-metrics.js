@@ -6,7 +6,7 @@
 
   const page = tag.dataset.page;
   const endpoint = tag.dataset.collect;
-  const installer = "https://github.com/ThunderBrain/RewriteLite/releases/latest/download/RewriteLite-Setup.exe";
+  const installer = "https://github.com/ThunderBrain/Riffquill/releases/latest/download/Riffquill-Setup.exe";
 
   function count(name, event = false) {
     const url = new URL(endpoint);

@@ -1,7 +1,7 @@
-RewriteLite Software License
+Riffquill Software License
 Version 1.0 | 2026-11-18
 
-Copyright 2026 the author of RewriteLite (GitHub: ThunderBrain). All rights reserved.
+Copyright 2026 the author of Riffquill (GitHub: ThunderBrain). All rights reserved.
 
 1. Permission. You may download, install, and use the official, unmodified Windows application at no charge for personal, educational, or internal business use. You may install it on devices you use or administer and make reasonable backup copies. You may use the resulting text in your work, including commercial work. The author claims no rights in your input or output under this license. Your AI provider's terms and any rights of other parties still apply.
 
@@ -11,4 +11,4 @@ Copyright 2026 the author of RewriteLite (GitHub: ThunderBrain). All rights rese
 
 4. Warranty and liability. To the extent permitted by law, the application is provided as is, without warranties. To the extent permitted by law, the author is not liable for indirect or consequential damages arising from its use. Mandatory consumer protections remain in effect.
 
-5. Contact. For permission requests, contact the maintainer through the official project at https://github.com/ThunderBrain/RewriteLite. This version of the license applies to copies distributed with it.
+5. Contact. For permission requests, contact the maintainer through the official project at https://github.com/ThunderBrain/Riffquill. This version of the license applies to copies distributed with it.
